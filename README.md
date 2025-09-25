@@ -1,5 +1,5 @@
 
-### Olá! Eu sou a Gabriela Luza 🩷
+### Olá! Eu sou a Gabriela Luza 💖
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por transformar dados e rotinas manuais em soluções eficientes.
 
