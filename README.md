@@ -1,17 +1,17 @@
 
-### Olá! Eu sou a Gabriela Luza 👋
+### Olá! Eu sou a Gabriela Luza 🩷
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por transformar dados e rotinas manuais em soluções eficientes.
 
 ---
 
-### 🚀 O que eu faço
+### 🌟 O que eu faço
 
 - **Automação de Planilhas:** Transformo Excel e Google Sheets em relatórios automáticos usando Python.
 - **Análise de Dados:** Processamento, limpeza e visualização de dados para tomada de decisão.
 - **Desenvolvimento Back-end:** Pequenos sistemas e APIs usando Python (Flask/FastAPI) e SQL.
 
-### 🛠 Minhas Tecnologias
+### 💫 Minhas Tecnologias
 
 | Área | Ferramentas |
 | :--- | :--- |
